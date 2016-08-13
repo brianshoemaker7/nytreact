@@ -1,0 +1,20 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "A New York Times article search application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianshoemaker7/nytreact.git"
+  },
+  "author": "Brian Shoemaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianshoemaker7/nytreact/issues"
+  },
+  "homepage": "https://github.com/brianshoemaker7/nytreact#readme"
+}
